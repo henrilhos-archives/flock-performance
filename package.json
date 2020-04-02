@@ -17,6 +17,7 @@
     "eslint-plugin-react": "^7.19.0",
     "highcharts": "^8.0.4",
     "highcharts-react-official": "^3.0.0",
+    "node-sass": "^4.13.1",
     "prettier": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
